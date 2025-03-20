@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NasirDev/static/css/main.f855e6bc.css",
-    "main.js": "/NasirDev/static/js/main.8c35da61.js",
+    "main.css": "/NasirDev/static/css/main.d3747481.css",
+    "main.js": "/NasirDev/static/js/main.1e8082bd.js",
     "static/js/453.e3f272f2.chunk.js": "/NasirDev/static/js/453.e3f272f2.chunk.js",
     "index.html": "/NasirDev/index.html",
-    "main.f855e6bc.css.map": "/NasirDev/static/css/main.f855e6bc.css.map",
-    "main.8c35da61.js.map": "/NasirDev/static/js/main.8c35da61.js.map",
+    "main.d3747481.css.map": "/NasirDev/static/css/main.d3747481.css.map",
+    "main.1e8082bd.js.map": "/NasirDev/static/js/main.1e8082bd.js.map",
     "453.e3f272f2.chunk.js.map": "/NasirDev/static/js/453.e3f272f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.8c35da61.js"
+    "static/css/main.d3747481.css",
+    "static/js/main.1e8082bd.js"
   ]
 }
