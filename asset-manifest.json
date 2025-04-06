@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/NasirDev/static/css/main.d3747481.css",
-    "main.js": "/NasirDev/static/js/main.1e8082bd.js",
+    "main.css": "/NasirDev/static/css/main.dd3d3793.css",
+    "main.js": "/NasirDev/static/js/main.e009bfb0.js",
     "static/js/453.e3f272f2.chunk.js": "/NasirDev/static/js/453.e3f272f2.chunk.js",
+    "static/media/Px437_Acer710_Mono.ttf": "/NasirDev/static/media/Px437_Acer710_Mono.2cd6194e42ca0e487a97.ttf",
     "index.html": "/NasirDev/index.html",
-    "main.d3747481.css.map": "/NasirDev/static/css/main.d3747481.css.map",
-    "main.1e8082bd.js.map": "/NasirDev/static/js/main.1e8082bd.js.map",
+    "main.dd3d3793.css.map": "/NasirDev/static/css/main.dd3d3793.css.map",
+    "main.e009bfb0.js.map": "/NasirDev/static/js/main.e009bfb0.js.map",
     "453.e3f272f2.chunk.js.map": "/NasirDev/static/js/453.e3f272f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3747481.css",
-    "static/js/main.1e8082bd.js"
+    "static/css/main.dd3d3793.css",
+    "static/js/main.e009bfb0.js"
   ]
 }
