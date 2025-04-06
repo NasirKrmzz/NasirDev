@@ -5,13 +5,17 @@ function App() {
   return (
     <div className="App">
       <div className="content">
-        <header>
-          <h1>NASIR KIRMIZI PORTFOLİO</h1>
-          <nav>
-            <a href="#main">Main</a>
-            <a href="#buy-me-coffee">Buy Me a Coffee</a>
-          </nav>
-        </header>
+        <div className="header-container">
+          <header>
+            <h1>Nasır Kırmızı Portfolio</h1>
+            <nav>
+              <a href="#main">Main</a>
+              <a href="#buy-me-coffee">Buy Me a Coffee</a>
+              <a href="#projects">Projects</a>
+              <a href="#contact">Contact</a>
+            </nav>
+          </header>
+        </div>
 
         <main>
           <div className="main-content">

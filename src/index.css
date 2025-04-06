@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'IBM VGA 8';
     src: url('../public/fonts/Px437_Acer710_Mono.ttf') format('truetype');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
@@ -12,13 +12,14 @@
     font-weight: 400;
 
     color-scheme: light dark;
-    color: rgba(255, 255, 255, 0.87);
-    background-color: #242424;
-
+    color: rgba(251, 251, 251);
+    background-color: rgb(15, 15, 15);
     font-synthesis: none;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: none;
     -moz-osx-font-smoothing: grayscale;
+    display: flex;
+    flex-direction: column;
 }
 
 a {
