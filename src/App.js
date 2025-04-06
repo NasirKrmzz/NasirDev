@@ -20,7 +20,7 @@ function App() {
               <ul>
                 <li>Nasır Kırmızı</li>
                 <li>Türkiye</li>
-                <li>Yazılım Geliştirici</li>
+                <li>Yazılım Geliştiricisi</li>
               </ul>
             </section>
 
