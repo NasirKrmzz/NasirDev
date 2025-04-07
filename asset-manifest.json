@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NasirDev/static/css/main.3ab3845b.css",
-    "main.js": "/NasirDev/static/js/main.548b973b.js",
+    "main.js": "/NasirDev/static/js/main.7b69746e.js",
     "static/js/453.e3f272f2.chunk.js": "/NasirDev/static/js/453.e3f272f2.chunk.js",
     "static/media/Px437_Acer710_Mono.ttf": "/NasirDev/static/media/Px437_Acer710_Mono.2cd6194e42ca0e487a97.ttf",
     "index.html": "/NasirDev/index.html",
     "main.3ab3845b.css.map": "/NasirDev/static/css/main.3ab3845b.css.map",
-    "main.548b973b.js.map": "/NasirDev/static/js/main.548b973b.js.map",
+    "main.7b69746e.js.map": "/NasirDev/static/js/main.7b69746e.js.map",
     "453.e3f272f2.chunk.js.map": "/NasirDev/static/js/453.e3f272f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ab3845b.css",
-    "static/js/main.548b973b.js"
+    "static/js/main.7b69746e.js"
   ]
 }
